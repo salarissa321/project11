@@ -1,0 +1,153 @@
+
+
+body{
+    font-family: 'Poppins', sans-serif;
+font-weight: normal;
+
+font-size: 18px;
+}
+
+
+.mydiv{
+    background-color:#FB503D ;
+}
+
+
+.mycontainer{
+
+}
+
+
+.mynav{
+    
+}
+
+.navbar-brand{
+font-size: 30px;
+font-weight: 700;
+color: white;
+padding-left: 20px;
+}
+
+.mybtn{
+    width: 120px;
+line-height: 36px;
+font-weight: 500;
+margin-left: 900px;
+border-radius: 20px;
+font-size: 15px;
+letter-spacing: 1px;
+border: 2px solid transparent;
+text-decoration: none;
+background-color: #FB503D;
+padding: 3px 3px;
+
+}
+.mybtn:hover{
+    background-color: white;
+    color: black;
+}
+
+.mybtn1{
+    width: 120px;
+    line-height: 36px;
+    font-weight: 500;
+    border: 2px solid transparent;
+    border-radius: 20px;
+    font-size: 15px;
+    letter-spacing: 1px;
+    border: 2px solid transparent;
+    text-decoration: none; 
+    background-color: #FB503D;
+    border-color: white;
+    padding: 3px 3px;
+}
+.mybtn1:hover{
+    background-color: white;
+    color: black;
+}
+
+.mydiv2{
+    background-color:#FB503D ;
+    
+}
+.mycontainer2{
+    padding-left: 50px;
+}
+
+.myschreiben{
+    font-family: 'Open Sans', sans-serif;
+    
+    color: #fff;
+    font-size: 24px;
+ 
+}
+
+.myschrift{
+    margin: 25px 0 40px 0;
+    font-size: 50px;
+    
+    font-weight: 600;
+    
+    color: white;
+}
+
+.mypara{
+    font-size: 20px;
+    margin: 0 0 55px 0;
+    color: rgba(255,255,255,0.85);
+    line-height: 35px;
+font-family: 'Open Sans', sans-serif;
+}
+
+.mylink{
+    background: #252525;
+    border-color: black;
+    width: 190px;
+line-height: 56px;
+font-size: 18px;
+font-weight: 500;
+border: 2px solid black;
+border-radius: 3px;
+margin: 10px 15px 0 0;
+padding: 3px 3px;
+}
+
+
+.mylink:hover{
+background-color: white;
+color: black;
+
+}
+.mylink2{
+    width: 190px;
+    line-height: 56px;
+    font-size: 18px;
+    font-weight: 500;
+    border: 2px solid #fff;
+    border-radius: 3px;
+    margin: 10px 15px 0 0;
+    border-color: #252525;
+    background-color: #FB503D;
+    border-color: white;
+    padding: 3px 3px;
+
+     
+}
+
+.mylink2:hover{
+    color:black;
+    background-color: white;
+}
+
+.myapple{
+margin-bottom: 5px;
+}
+
+.myimg{
+    
+    margin-bottom: 20px;
+    font-size: 100%;
+    display: block;
+
+}
