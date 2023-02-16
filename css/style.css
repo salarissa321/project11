@@ -151,3 +151,61 @@ margin-bottom: 5px;
     display: block;
 
 }
+
+.myh6{
+    font-size: 18px;
+    font-family: 'Open Sans', sans-serif;
+font-weight: 400;
+text-transform: uppercase;
+color: rgba(0,0,0,0.35);
+letter-spacing: 1px;
+margin-bottom: 22px;
+}
+
+.myh2{
+    font-size: 42px;
+line-height: 60px;
+color: #00000a;
+font-weight: 600;
+
+}
+
+.myfoto{
+    max-width: 100%;
+    margin-left: 150px;
+}
+
+
+.mykuli{
+    font-size: 20px;
+    margin: 50px 0 25px 0;
+    letter-spacing: 1.2px;
+    color: #00000a;
+font-weight: 600;
+}
+
+.mypro{
+    font-size: 20px;
+    line-height: 30px;
+    font-family: 'Open Sans', sans-serif;
+color: grey;
+}
+
+.mybutton{
+    width: 110px;
+
+border: 1px solid rgba(0,0,0,0.08);
+border-radius: 5px;
+padding: 10px;
+
+text-decoration: none;
+font-weight: 600;
+font-size: 15px;
+margin-left: 150px;
+
+}
+
+.mybutton:hover{
+    background-color: #FF5246;
+    color: white;
+}
